@@ -49,13 +49,3 @@ I'm currently working at SENAI CIMATEC, where I focus on developing software sol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavo-Cruzz/Gustavo-Cruzz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gustavo-Cruzz/Gustavo-Cruzz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gustavo-Cruzz/Gustavo-Cruzz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
